@@ -72,6 +72,7 @@ CALCULATE (SUM(Orders[sales]),FILTER(Orders,order[country]="united states"))
 
 
 ### Results
+
 1.United States had the highest profit, followed by India and China.
 b. United states-Canon Image Class 2200 advanced copier
 India-Sauder classic bookcase, traditional
