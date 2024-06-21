@@ -1,4 +1,6 @@
-![Edu Capstone 3a Dashboard](https://github.com/EduBassey/Global-superstore-analysis/assets/170472577/a376f5ac-64cc-481e-b777-dc8a04f7067e)![Edu Capstone 3a Dashboard](https://github.com/EduBassey/Global-superstore-analysis/assets/170472577/8ef9d73a-10fb-4f3e-a598-633ae9fdc4e4)# Global superstore analysis
+![Edu Capstone 3a Dashboard](https://github.com/EduBassey/Global-superstore-analysis/assets/170472577/a376f5ac-64cc-481e-b777-dc8a04f7067e)![Edu Capstone 3a Dashboard](https://github.com/EduBassey/Global-superstore-analysis/assets/170472577/8ef9d73a-10fb-4f3e-a598-633ae9fdc4e4)
+
+# Global superstore analysis
 
 ### Project overview
 
